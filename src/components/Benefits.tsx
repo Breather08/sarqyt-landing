@@ -10,7 +10,7 @@ const Benefits = () => {
     <section 
       id="benefits" 
       ref={sectionRef}
-      className="py-20 bg-white"
+      className="max-w-screen py-20 bg-white overflow-x-hidden"
     >
       <div className="container mx-auto px-4 md:px-6">
         <div className="max-w-3xl mx-auto text-center mb-16">
